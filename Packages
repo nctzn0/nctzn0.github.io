@@ -1,0 +1,17 @@
+Package: nct.iphone.fst
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: nct.
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/nct.iphone.fst_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 3486
+MD5sum: 971342200ffc2c6f92d9ea620cc6ff27
+SHA1: e67295b63b05f93cf553a152b88c7ab45bac5a7f
+SHA256: b65d2ef347dbeeac128321031a85040846db442c76452f7d6ac4864f059abb79
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: nct.
+Depiction: https://nctzn0.github.io/repo/depictions/?p=nct.iphone.fst
+Name: Fancy SystemTexts
+
